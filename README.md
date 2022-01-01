@@ -2,7 +2,7 @@
 # GifMaker
 # ================================
 
-GifCreator is a PHP class to create animated GIF from multiple images
+GifMaker is a PHP class to create animated GIF from multiple images
 
 ### For what ?
 
