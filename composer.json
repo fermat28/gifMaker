@@ -1,6 +1,7 @@
 {
     "name": "fermat/bankai",
     "type": "library",
+    "version" : "v2.0",
     "keywords": ["gif", "animated", "creation", "encode", "PHP"],
     "homepage": "https://github.com/fermat28/gifMaker",
     "description": "An elegant gif generator for many images files with resizing",
