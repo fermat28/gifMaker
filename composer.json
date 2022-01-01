@@ -1,0 +1,24 @@
+{
+    "name": "fermat/bankai",
+    "description": "An elegant gif generator for many images files",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fermat\\Bankai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fermat",
+            "email": "aimericpouga28@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.23"
+    },
+    "autoload-dev" :{
+        "psr-4": {
+            "Fermat\\Bankai\\tests\\": "tests/"
+        }
+    }
+}
