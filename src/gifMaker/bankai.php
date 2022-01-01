@@ -1,17 +1,17 @@
 <?php
 
-namespace GifCreator;
+namespace GifMaker;
 
 /**
  * Create an animated GIF from multiple images
  *
  * @version 1.0
- * @link https://github.com/Sybio/GifCreator
- * @author Sybio (Clément Guillemain  / @Sybio01)
+ * @link https://github.com/fermat28/gifmaker
+ * @author fermat (Aimeric Pouga )
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
- * @copyright Clément Guillemain
+ * @copyright AimericPouga
  */
-class GifCreator
+class GifMaker
 {
     /**
      * @var string The gif string source (old: this->GIF)
